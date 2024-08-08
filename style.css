@@ -1,0 +1,72 @@
+body {
+  font-family: "Lora", serif;
+  background-color: #ced4da;
+}
+
+.container {
+  height: 100vh;
+  width: 100wh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Lora", "serif";
+}
+
+#home-page {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+
+.main {
+  color: #212529;
+}
+
+.btn {
+  text-decoration: none;
+  border: solid #343a40 1px;
+  padding: 10px 10px 10px 1px;
+  color: #000000;
+  font-weight: bolder;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 #495057;
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;
+}
+
+/* Form */
+
+form {
+  font-family: "Lora", sans-serif;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+#end {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  text-align: center;
+}
+
+.subBtn {
+  font-family: "Lora", serif;
+  font-size: medium;
+}
+
+input {
+  margin-bottom: 1rem;
+  width: 10rem;
+  padding: 1rem;
+  font-size: 1rem;
+  border: none;
+  box-shadow: 0 0.1rem 0.5rem 0 #212529;
+  border-radius: 10px;
+}

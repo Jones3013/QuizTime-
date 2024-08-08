@@ -1,0 +1,491 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choice1": "Earth",
+    "choice2": "Mars",
+    "choice3": "Jupiter",
+    "choice4": "Venus",
+    "answer": 2
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "choice1": "William Shakespeare",
+    "choice2": "Charles Dickens",
+    "choice3": "Jane Austen",
+    "choice4": "Mark Twain",
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "choice1": "Berlin",
+    "choice2": "Madrid",
+    "choice3": "Rome",
+    "choice4": "Paris",
+    "answer": 4
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "choice1": "Gold",
+    "choice2": "Iron",
+    "choice3": "Diamond",
+    "choice4": "Platinum",
+    "answer": 3
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "choice1": "Thomas Jefferson",
+    "choice2": "Abraham Lincoln",
+    "choice3": "George Washington",
+    "choice4": "John Adams",
+    "answer": 3
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "choice1": "Oxygen",
+    "choice2": "Gold",
+    "choice3": "Silver",
+    "choice4": "Iron",
+    "answer": 1
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "choice1": "Atlantic Ocean",
+    "choice2": "Indian Ocean",
+    "choice3": "Arctic Ocean",
+    "choice4": "Pacific Ocean",
+    "answer": 4
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "choice1": "Vincent van Gogh",
+    "choice2": "Claude Monet",
+    "choice3": "Leonardo da Vinci",
+    "choice4": "Pablo Picasso",
+    "answer": 3
+  },
+  {
+    "question": "What is the smallest unit of life?",
+    "choice1": "Atom",
+    "choice2": "Molecule",
+    "choice3": "Cell",
+    "choice4": "Organ",
+    "answer": 3
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "choice1": "Yuan",
+    "choice2": "Won",
+    "choice3": "Yen",
+    "choice4": "Dollar",
+    "answer": 3
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "choice1": "Marie Curie",
+    "choice2": "Alexander Fleming",
+    "choice3": "Isaac Newton",
+    "choice4": "Albert Einstein",
+    "answer": 2
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "choice1": "HO",
+    "choice2": "H2O",
+    "choice3": "H2",
+    "choice4": "O2",
+    "answer": 2
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "choice1": "Canada",
+    "choice2": "China",
+    "choice3": "United States",
+    "choice4": "Russia",
+    "answer": 4
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "choice1": "Amazon River",
+    "choice2": "Nile River",
+    "choice3": "Yangtze River",
+    "choice4": "Mississippi River",
+    "answer": 2
+  },
+  {
+    "question": "Who was known as the 'Iron Lady'?",
+    "choice1": "Margaret Thatcher",
+    "choice2": "Angela Merkel",
+    "choice3": "Indira Gandhi",
+    "choice4": "Golda Meir",
+    "answer": 1
+  },
+  {
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "choice1": "Tofu",
+    "choice2": "Seaweed",
+    "choice3": "Miso paste",
+    "choice4": "Rice",
+    "answer": 3
+  },
+  {
+    "question": "Who invented the telephone?",
+    "choice1": "Thomas Edison",
+    "choice2": "Alexander Graham Bell",
+    "choice3": "Nikola Tesla",
+    "choice4": "Guglielmo Marconi",
+    "answer": 2
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "choice1": "Heart",
+    "choice2": "Liver",
+    "choice3": "Skin",
+    "choice4": "Lungs",
+    "answer": 3
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "choice1": "1905",
+    "choice2": "1912",
+    "choice3": "1920",
+    "choice4": "1918",
+    "answer": 2
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "choice1": "Sydney",
+    "choice2": "Melbourne",
+    "choice3": "Brisbane",
+    "choice4": "Canberra",
+    "answer": 4
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "choice1": "Isaac Newton",
+    "choice2": "Galileo Galilei",
+    "choice3": "Albert Einstein",
+    "choice4": "Stephen Hawking",
+    "answer": 3
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "choice1": "Spanish",
+    "choice2": "English",
+    "choice3": "Hindi",
+    "choice4": "Mandarin Chinese",
+    "answer": 4
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "choice1": "Mercury",
+    "choice2": "Gold",
+    "choice3": "Silver",
+    "choice4": "Lead",
+    "answer": 1
+  },
+  {
+    "question": "What is the square root of 144?",
+    "choice1": "10",
+    "choice2": "11",
+    "choice3": "12",
+    "choice4": "13",
+    "answer": 3
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "choice1": "Venus",
+    "choice2": "Earth",
+    "choice3": "Mercury",
+    "choice4": "Mars",
+    "answer": 3
+  },
+  {
+    "question": "Who is the author of 'Harry Potter'?",
+    "choice1": "J.R.R. Tolkien",
+    "choice2": "George R.R. Martin",
+    "choice3": "J.K. Rowling",
+    "choice4": "C.S. Lewis",
+    "answer": 3
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "choice1": "Elephant",
+    "choice2": "Blue whale",
+    "choice3": "Giraffe",
+    "choice4": "Great white shark",
+    "answer": 2
+  },
+  {
+    "question": "What is the primary ingredient in guacamole?",
+    "choice1": "Tomato",
+    "choice2": "Onion",
+    "choice3": "Avocado",
+    "choice4": "Pepper",
+    "answer": 3
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "choice1": "Jupiter",
+    "choice2": "Saturn",
+    "choice3": "Uranus",
+    "choice4": "Neptune",
+    "answer": 2
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "choice1": "K2",
+    "choice2": "Mount Kilimanjaro",
+    "choice3": "Mount Everest",
+    "choice4": "Denali",
+    "answer": 3
+  },
+  {
+    "question": "What is the main gas found in the air we breathe?",
+    "choice1": "Oxygen",
+    "choice2": "Carbon dioxide",
+    "choice3": "Nitrogen",
+    "choice4": "Hydrogen",
+    "answer": 3
+  },
+
+  {
+    "question": "Who is known as the father of modern physics?",
+    "choice1": "Albert Einstein",
+    "choice2": "Isaac Newton",
+    "choice3": "Galileo Galilei",
+    "choice4": "Niels Bohr",
+    "answer": 2
+  },
+  {
+    "question": "What is the heaviest naturally occurring element in the periodic table?",
+    "choice1": "Uranium",
+    "choice2": "Plutonium",
+    "choice3": "Osmium",
+    "choice4": "Lead",
+    "answer": 1
+  },
+  {
+    "question": "In what year was the United Nations established?",
+    "choice1": "1918",
+    "choice2": "1939",
+    "choice3": "1945",
+    "choice4": "1951",
+    "answer": 3
+  },
+  {
+    "question": "Who composed the Four Seasons?",
+    "choice1": "Johann Sebastian Bach",
+    "choice2": "Antonio Vivaldi",
+    "choice3": "Ludwig van Beethoven",
+    "choice4": "Wolfgang Amadeus Mozart",
+    "answer": 2
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "choice1": "Canada",
+    "choice2": "Brazil",
+    "choice3": "Russia",
+    "choice4": "United States",
+    "answer": 1
+  },
+  {
+    "question": "Who is the author of 'A Brief History of Time'?",
+    "choice1": "Richard Feynman",
+    "choice2": "Carl Sagan",
+    "choice3": "Stephen Hawking",
+    "choice4": "Brian Greene",
+    "answer": 3
+  },
+  {
+    "question": "What is the capital city of Finland?",
+    "choice1": "Helsinki",
+    "choice2": "Oslo",
+    "choice3": "Stockholm",
+    "choice4": "Copenhagen",
+    "answer": 1
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "choice1": "Earth",
+    "choice2": "Mars",
+    "choice3": "Jupiter",
+    "choice4": "Saturn",
+    "answer": 4
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "choice1": "1987",
+    "choice2": "1989",
+    "choice3": "1991",
+    "choice4": "1993",
+    "answer": 2
+  },
+  {
+    "question": "Who is credited with the discovery of penicillin?",
+    "choice1": "Louis Pasteur",
+    "choice2": "Alexander Fleming",
+    "choice3": "Joseph Lister",
+    "choice4": "Robert Koch",
+    "answer": 2
+  },
+  {
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "choice1": "Oxygen",
+    "choice2": "Carbon Dioxide",
+    "choice3": "Nitrogen",
+    "choice4": "Hydrogen",
+    "answer": 3
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choice1": "China",
+    "choice2": "South Korea",
+    "choice3": "Thailand",
+    "choice4": "Japan",
+    "answer": 4
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "choice1": "Stapes",
+    "choice2": "Incus",
+    "choice3": "Malleus",
+    "choice4": "Hyoid",
+    "answer": 1
+  },
+  {
+    "question": "Which element is commonly used in batteries?",
+    "choice1": "Lithium",
+    "choice2": "Sodium",
+    "choice3": "Magnesium",
+    "choice4": "Calcium",
+    "answer": 1
+  },
+  {
+    "question": "Who is known as the 'Father of Economics'?",
+    "choice1": "John Maynard Keynes",
+    "choice2": "Adam Smith",
+    "choice3": "David Ricardo",
+    "choice4": "Milton Friedman",
+    "answer": 2
+  },
+  {
+    "question": "What is the largest organ inside the human body?",
+    "choice1": "Heart",
+    "choice2": "Liver",
+    "choice3": "Lung",
+    "choice4": "Kidney",
+    "answer": 2
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "choice1": "1905",
+    "choice2": "1912",
+    "choice3": "1918",
+    "choice4": "1925",
+    "answer": 2
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "choice1": "Sahara Desert",
+    "choice2": "Gobi Desert",
+    "choice3": "Arabian Desert",
+    "choice4": "Antarctic Desert",
+    "answer": 4
+  },
+  {
+    "question": "Which Nobel Prize did Albert Einstein win?",
+    "choice1": "Literature",
+    "choice2": "Chemistry",
+    "choice3": "Physics",
+    "choice4": "Peace",
+    "answer": 3
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "choice1": "Spanish",
+    "choice2": "English",
+    "choice3": "Hindi",
+    "choice4": "Mandarin",
+    "answer": 4
+  },
+  {
+    "question": "Which planet is known as the Morning Star?",
+    "choice1": "Mars",
+    "choice2": "Venus",
+    "choice3": "Jupiter",
+    "choice4": "Saturn",
+    "answer": 2
+  },
+  {
+    "question": "Who discovered the electron?",
+    "choice1": "James Chadwick",
+    "choice2": "Niels Bohr",
+    "choice3": "Ernest Rutherford",
+    "choice4": "J.J. Thomson",
+    "answer": 4
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "choice1": "Nucleus",
+    "choice2": "Mitochondria",
+    "choice3": "Ribosome",
+    "choice4": "Golgi Apparatus",
+    "answer": 2
+  },
+  {
+    "question": "Which ancient civilization built the Machu Picchu complex in Peru?",
+    "choice1": "Aztec",
+    "choice2": "Maya",
+    "choice3": "Inca",
+    "choice4": "Olmec",
+    "answer": 3
+  },
+  {
+    "question": "Which disease is caused by the lack of Vitamin C?",
+    "choice1": "Rickets",
+    "choice2": "Scurvy",
+    "choice3": "Pellagra",
+    "choice4": "Beriberi",
+    "answer": 2
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "choice1": "Joule",
+    "choice2": "Pascal",
+    "choice3": "Newton",
+    "choice4": "Watt",
+    "answer": 3
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "choice1": "Rosalind Franklin",
+    "choice2": "Marie Curie",
+    "choice3": "Dorothy Hodgkin",
+    "choice4": "Ada Lovelace",
+    "answer": 2
+  },
+  {
+    "question": "Which ancient Greek philosopher taught Alexander the Great?",
+    "choice1": "Plato",
+    "choice2": "Aristotle",
+    "choice3": "Socrates",
+    "choice4": "Epicurus",
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "choice1": "Oslo",
+    "choice2": "Helsinki",
+    "choice3": "Reykjavik",
+    "choice4": "Stockholm",
+    "answer": 3
+  },
+  {
+    "question": "Which country is home to the tallest building in the world?",
+    "choice1": "United States",
+    "choice2": "China",
+    "choice3": "Saudi Arabia",
+    "choice4": "United Arab Emirates",
+    "answer": 4
+  }
+]
