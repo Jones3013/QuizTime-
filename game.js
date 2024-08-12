@@ -14,7 +14,7 @@ let availableQuesions = []; //include questions on array
 
 let questions = [];
 
-fetch("questions.jsson")
+fetch("questions.json")
   .then((res) => {
     return res.json();
   })
